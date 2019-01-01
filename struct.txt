@@ -1,0 +1,2 @@
+HOMEPAGE: links to Github, LinkedIn, Short bio
+CONTACT: Seperate App, form to send email to my gmail
