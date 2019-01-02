@@ -1,4 +1,4 @@
-from settings_secret import *
+from .secret import *
 """
 Django settings for portfolio project.
 
@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 
-SECRET_KEY = THING
+SECRET_KEY = thing
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
