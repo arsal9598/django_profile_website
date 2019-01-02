@@ -110,4 +110,4 @@ venv.bak/
 *.sqlite3
 
 # secret stuff
-portfolio/secret
+portfolio/secret.py
