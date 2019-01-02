@@ -1,4 +1,3 @@
-from .secret import *
 """
 Django settings for portfolio project.
 
