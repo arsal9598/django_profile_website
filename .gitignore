@@ -108,6 +108,4 @@ venv.bak/
 
 # Database
 *.sqlite3
-
-# secret stuff
 portfolio/secret.py
