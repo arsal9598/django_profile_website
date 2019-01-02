@@ -1,0 +1,8 @@
+.bio {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+#linkedin, #github {
+  border: 2px solid black;
+}
